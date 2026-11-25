@@ -1,0 +1,7 @@
+/* index.html (privacy policy) and support.html — App Store URLs, published at https://hyunsupark85.github.io/parkible-privacy/ */
+:root { color-scheme: light dark; --bg: #faf7f0; --fg: #1d1d1f; --muted: #6e6e73; --link: #0a5bd6; }
+@media (prefers-color-scheme: dark) { :root { --bg: #1b1b1d; --fg: #f2f2f2; --muted: #a1a1a6; --link: #5ea2ff; } }
+body { margin: 0; background: var(--bg); color: var(--fg); font: 17px/1.6 -apple-system, system-ui, sans-serif; }
+main { max-width: 680px; margin: 0 auto; padding: 32px 16px 64px; }
+h1 { font-size: 28px; line-height: 1.2; } h2 { font-size: 20px; margin-top: 2em; }
+a { color: var(--link); } .muted { color: var(--muted); font-size: 15px; } hr { border: 0; border-top: 1px solid #8884; margin: 48px 0; }
